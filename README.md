@@ -1,4 +1,4 @@
-# Almundo Prueba Front End
+# Prueba Front End
 
 ### Requisitos
 * Node >= 6.11.2
